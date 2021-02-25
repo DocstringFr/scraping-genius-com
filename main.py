@@ -62,7 +62,7 @@ def get_all_words():
         words.extend(lyrics)
 
     # with open("data-michel-sardou.json", "w") as f:
-    #    json.dump(words, f, indent=4)
+    #     json.dump(words, f, indent=4)
 
     # with open("data.json", "r") as f:
     #     words = json.load(f)
